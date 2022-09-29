@@ -1,0 +1,4 @@
+﻿  laba3.5.cpp
+C:\Users\Asus\Documents\GitHub\info_security\laba3.5\laba3.5\laba3.5.cpp(38,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Asus\Documents\GitHub\info_security\laba3.5\laba3.5\laba3.5.cpp(50,34): warning C4018: <: несоответствие типов со знаком и без знака
+  laba3.5.vcxproj -> C:\Users\Asus\Documents\GitHub\info_security\laba3.5\Debug\laba3.5.exe
